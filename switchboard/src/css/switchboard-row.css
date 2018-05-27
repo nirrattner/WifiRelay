@@ -1,0 +1,9 @@
+.switchboard-row {
+  font-size: 20px;
+  text-align: left;
+}
+
+.toggle {
+  float: right;
+  margin-top: 3px;
+}

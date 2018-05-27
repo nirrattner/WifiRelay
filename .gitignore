@@ -1,8 +1,9 @@
 web.sh
 
+*.DS_Store
+
+# Python
 __pycache__/
 *.py[cod]
 .venv
 database.sql
-
-*.DS_Store

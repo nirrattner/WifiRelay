@@ -1,0 +1,17 @@
+.app {
+  background-color: white;
+  border-radius: 10px;
+  border-color: #694996;
+  border-style: solid;
+  border-width: 2px;
+  height: 100%;
+  margin: 20px auto;
+  padding: 10px;
+  text-align: center;
+  width: 80%;
+  max-width: 800px
+}
+
+h1 {
+  padding: 15px;
+}

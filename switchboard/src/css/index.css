@@ -1,0 +1,15 @@
+html {
+  background-color: #d7c9ea;
+  height: 100%;
+}
+
+body {
+  background-color: #d7c9ea;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
