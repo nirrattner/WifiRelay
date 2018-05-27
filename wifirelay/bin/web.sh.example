@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# TODO: Use appropriate path to gunicorn
+# /path/to/gunicorn runserver:app --threads 4 --bind 0.0.0.0:8000
