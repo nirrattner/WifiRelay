@@ -1,0 +1,6 @@
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "password"
+
+#define DEVICE_ID "1"
+#define HOST "raspi.local"
+
